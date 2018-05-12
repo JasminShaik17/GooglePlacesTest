@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="atm"/>
+    <item android:title="bank"/>
+    <item android:title="school"/>
+    <item android:title="restaurant"/>
+    <item android:title="pharmacy"/>
+    <item android:title="police"/>
+    <item android:title="temple"/>
+    <item android:title="hospital"/>
+</menu>
